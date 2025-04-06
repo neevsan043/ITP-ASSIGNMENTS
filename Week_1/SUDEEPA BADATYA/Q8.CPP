@@ -7,11 +7,11 @@ int main()
     for (i = 1; i <= n; i++) 
     {
         for (j = 1; j <= i; j++) 
-        cout << j;
+            cout << j;
         for (k = 1; k <= 2 * (n - i); k++) 
-        cout << " ";
+            cout << " ";
         for (j = i; j >= 1; j--)
-        cout << j;
+            cout << j;
         cout << endl;
     }
 }
