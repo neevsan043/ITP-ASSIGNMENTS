@@ -1,6 +1,6 @@
 //Write a program to print the numbers from 1 to 100, but           
 //replace multiples of 3 with "Fizz" and multiples of 5 with "Buzz" and if divisible
- //by both print “FizzBuzz”.
+ //by both print “FizzBuzz”.below is the program
  #include<iostream>
  using namespace std;
  int main()
